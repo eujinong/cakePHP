@@ -1,0 +1,25 @@
+# app
+/config/app.php
+/tmp/*
+/logs/*
+/config/app_local.php
+/config/bootstrap.local.php
+
+
+# dependencies
+/vendor/*
+/node_modules
+/bower_components
+
+# IDEs and editors
+/.idea
+pmip
+.project
+.classpath
+*.launch
+.settings/
+
+
+#System Files
+.DS_Store
+Thumbs.db
